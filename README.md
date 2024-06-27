@@ -1,2 +1,2 @@
-# planets
-a simple simulation game the head in the sky
+# planets 🪐
+a simple simulation game, head in the sky
